@@ -7,14 +7,14 @@
     margin: 4px 0;
 }
 .main-body {
-    background-color: #17a1c4;
-    color: white;
+    background-color: #071214;
+    color: rgb(184, 159, 22);
 }
 .materialboxed-image {
     margin: 0 auto;
     height: 400px;
 }
 .click-me-button {
-    background-color: #97d424;
+    background-color: #ad1111;
     margin-top: 50px;
 }
