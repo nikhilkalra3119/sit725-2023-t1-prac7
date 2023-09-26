@@ -43,7 +43,7 @@ const formSumitted = () => {
 
 let socket = io();
 socket.on('number',(msg)=>{
-    console.log('Random Number: ' + msg);
+    console.log('the number is: ' + msg);
 })
 
 $(document).ready(function(){
